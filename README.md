@@ -1,4 +1,3 @@
-Certainly! Here's the README in Markdown format, including commands:
 
 
 # README
@@ -13,7 +12,7 @@ This README provides instructions for running a Flask application by activating 
 
 1. **Clone the Repository**: 
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/2deadmen/report_prompt.git
    ```
 
 2. **Navigate to the Project Directory**:
